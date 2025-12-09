@@ -4,7 +4,7 @@
 
 **1,000,000+ active users since 2022** — DuckMath.org is a fast, lightweight unblocked games platform focused on accessibility, safety, and a social gaming experience for players everywhere.
 
-> Short description: DuckMath.org hosts 250+ browser games, updates daily, and provides features like leaderboards, an in-site economy (coins), a seasonal battlepass, cloaking tools, and multiple proxy integration options so you can play from a school or work network.
+> Short description: DuckMath.org hosts 250+ browser games, updates daily, and provides features like leaderboards, an in-site economy (coins), a seasonal battlepass, cloaking tools, and multiple   integration options so you can play from a school or work network.
 
 ---
 
@@ -339,9 +339,9 @@ A curated library of browser-friendly games (HTML5, WebGL, iframe wrappers for s
 
 ### Proxies & Cloak Mode
 
-DuckMath integrates multiple trusted proxy backends (holyunblocker, rammerhead, ultra violet web proxy) so players can access content from networks that would otherwise block the target domains.
+DuckMath integrates multiple trusted   backends (holyunblocker, rammerhead, ultra violet web  ) so players can access content from networks that would otherwise block the target domains.
 
-- Pick different proxy backends to improve reach and reduce downtime
+- Pick different   backends to improve reach and reduce downtime
 - Cloak Mode: change your browser tab title and favicon to look like a classroom page (example: Google Classroom or about\:blank) for discreet browsing
 - Important: Use proxies responsibly and follow local rules and school policies.
 
@@ -394,7 +394,7 @@ You dont even need to add the games! (they are added automatically!)
 
 - Use an edge/CDN backed host (Vercel, Cloudflare Pages, Netlify) to keep latency low for players in different regions.
 - Make sure you dont say unblocked games or games anywhere in the site, that will make goguardian block it!
-- Use a lightweight serverless function when you need to proxy auth or handle leaderboard submissions.
+- Use a lightweight serverless function when you need to   auth or handle leaderboard submissions.
 
 ## Security & Privacy
 
