@@ -4,7 +4,7 @@
 
 **1,000,000+ active users since 2022** — DuckMath.org is a fast, lightweight unblocked games platform focused on accessibility, safety, and a social gaming experience for players everywhere.
 
-> Short description: DuckMath.org hosts 250+ browser games, updates daily, and provides features like leaderboards, an in-site economy (coins), a seasonal battlepass, tools, and multiple   integration options so you can play from a school or work network.
+> Short description: DuckMath.org hosts 250+ browser games, updates daily, and provides features like leaderboards, an in-site economy (coins), a seasonal battlepass, tools, and multiple   integration options so you can play from a school or work.
 
 ---
 
